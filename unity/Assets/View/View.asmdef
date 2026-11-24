@@ -1,0 +1,6 @@
+{
+  "name": "View",
+  "rootNamespace": "Saranggola.View",
+  "references": ["Sim", "Unity.InputSystem", "Unity.RenderPipelines.Universal.Runtime", "UnityEngine.UI"],
+  "autoReferenced": true
+}

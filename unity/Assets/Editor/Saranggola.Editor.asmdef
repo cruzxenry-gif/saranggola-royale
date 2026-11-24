@@ -1,0 +1,5 @@
+{
+  "name": "Saranggola.Editor",
+  "references": ["Sim", "View", "Unity.RenderPipelines.Universal.Runtime"],
+  "includePlatforms": ["Editor"]
+}

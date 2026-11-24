@@ -1,0 +1,8 @@
+{
+  "name": "Sim",
+  "rootNamespace": "Saranggola.Sim",
+  "noEngineReferences": true,
+  "overrideReferences": true,
+  "precompiledReferences": ["Newtonsoft.Json.dll"],
+  "autoReferenced": true
+}
